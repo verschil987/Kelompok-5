@@ -10,7 +10,7 @@
 			<input type="text" name="last_name" required="" class="form-control">
 		</div>
 		<div class="form-group">
-			<label for="" class="control-label">Contact</label>
+			<label for="" class="control-label">contact</label>
 			<input type="text" name="mobile" required="" class="form-control">
 		</div>
 		<div class="form-group">
