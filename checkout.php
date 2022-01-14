@@ -16,7 +16,7 @@
                 <form action="" id="checkout-frm">
                     <h4>Confirm Delivery Information</h4>
                     <div class="form-group">
-                        <label for="" class="control-label">Firstname</label>
+                        <label for="" class="control-label">firstname</label>
                         <input type="text" name="first_name" required="" class="form-control" value="<?php echo $_SESSION['login_first_name'] ?>">
                     </div>
                     <div class="form-group">
